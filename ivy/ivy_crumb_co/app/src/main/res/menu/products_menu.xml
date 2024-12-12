@@ -1,0 +1,9 @@
+<!-- res/menu/products_menu.xml -->
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_view_cart"
+        android:icon="@drawable/ic_shopping_cart"
+        android:title="View Cart"
+        app:showAsAction="always" />
+</menu>

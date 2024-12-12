@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AleszsPetopiaApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#F48FB1</item>          <!-- Dark Pink 200 -->
+        <item name="colorPrimaryVariant">#C2185B</item>   <!-- Dark Pink 700 -->
+        <item name="colorOnPrimary">#000000</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#AD1457</item>        <!-- Dark Pink 800 -->
+        <item name="colorSecondaryVariant">#78002E</item> <!-- Dark Pink 900 -->
+        <item name="colorOnSecondary">#000000</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Background colors. -->
+        <item name="android:colorBackground">#000000</item>
+        <item name="colorOnBackground">#FFFFFF</item>
+        <!-- Surface colors. -->
+        <item name="colorSurface">#000000</item>
+        <item name="colorOnSurface">#FFFFFF</item>
+        <!-- Error colors. -->
+        <item name="colorError">#CF6679</item>
+        <item name="colorOnError">#000000</item>
+    </style>
+</resources>

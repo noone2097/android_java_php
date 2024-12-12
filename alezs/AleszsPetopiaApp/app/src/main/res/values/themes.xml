@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AleszsPetopiaApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#C2185B</item>          <!-- Dark Pink 700 -->
+        <item name="colorPrimaryVariant">#8C0032</item>   <!-- Dark Pink 900 -->
+        <item name="colorOnPrimary">#FFFFFF</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">#AD1457</item>        <!-- Dark Pink 800 -->
+        <item name="colorSecondaryVariant">#78002E</item> <!-- Dark Pink 900 -->
+        <item name="colorOnSecondary">#FFFFFF</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Background colors. -->
+        <item name="android:colorBackground">#FFFFFF</item>
+        <item name="colorOnBackground">#000000</item>
+        <!-- Surface colors. -->
+        <item name="colorSurface">#FFFFFF</item>
+        <item name="colorOnSurface">#000000</item>
+        <!-- Error colors. -->
+        <item name="colorError">#B00020</item>
+        <item name="colorOnError">#FFFFFF</item>
+        <!-- Custom text input style -->
+        <item name="textInputStyle">@style/Widget.App.TextInputLayout</item>
+        <!-- Custom button style -->
+        <item name="materialButtonStyle">@style/Widget.App.Button</item>
+    </style>
+
+    <style name="Theme.AleszsPetopiaApp" parent="Base.Theme.AleszsPetopiaApp" />
+
+    <style name="Theme.AleszsPetopiaApp.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" />
+
+    <!-- Custom TextInputLayout style -->
+    <style name="Widget.App.TextInputLayout" parent="Widget.Material3.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">#C2185B</item>
+        <item name="hintTextColor">#C2185B</item>
+        <item name="android:textColorHint">#F48FB1</item>
+        <item name="endIconTint">#C2185B</item>
+        <item name="startIconTint">#C2185B</item>
+    </style>
+
+    <!-- Custom Button style -->
+    <style name="Widget.App.Button" parent="Widget.Material3.Button">
+        <item name="backgroundTint">#C2185B</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="cornerRadius">8dp</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textSize">16sp</item>
+    </style>
+</resources>

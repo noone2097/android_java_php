@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A1B3D</color>      <!-- Dark Purple -->
+    <color name="colorPrimaryDark">#1A102A</color>  <!-- Darker Purple -->
+    <color name="colorAccent">#FF4B81</color>       <!-- Pink -->
+    <color name="textColorPrimary">#FFFFFF</color>  <!-- White -->
+    <color name="editTextBackground">#3D2953</color><!-- Medium Purple for input fields -->
+    <color name="buttonColor">#FF4B81</color>       <!-- Pink -->
+     <color name="cardBackground">#1A0F29</color>    <!-- Darker Purple for cards -->
+</resources>

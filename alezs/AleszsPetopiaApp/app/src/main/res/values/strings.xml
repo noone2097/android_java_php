@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alesz\'s Petopia</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="email">Email</string>
+    <string name="add_pet">Add Pet</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="logout">Logout</string>
+    <string name="pet_image_description">Pet Image</string>
+    <string name="discount_text">20% Senior Pet Discount!</string>
+    <string name="pet_age_format">%d years old</string>
+    <string name="no_pets_found">No pets found</string>
+    <string name="confirm_delete">Confirm Delete</string>
+    <string name="confirm_delete_message">Are you sure you want to delete this pet?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="error_loading_pets">Error loading pets</string>
+    <string name="error_deleting_pet">Error deleting pet</string>
+    <string name="success_deleting_pet">Pet deleted successfully</string>
+</resources>

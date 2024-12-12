@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ivy_crumb_co</string>
+    <string name="base_url">http://10.0.2.2/ivy_app</string>
+</resources>

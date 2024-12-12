@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="property_status">
+        <item>Available</item>
+        <item>Rented</item>
+        <item>Under Maintenance</item>
+    </string-array>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    
+    <!-- House Roof -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M12,2L2,12h3v8h14v-8h3L12,2zM12,5.3l6,6v6.7H6V11.3L12,5.3z"/>
+
+    <!-- Door -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M10,13h4v5h-4z"/>
+
+    <!-- Window Left -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M7,10h2v2h-2z"/>
+
+    <!-- Window Right -->
+    <path
+        android:fillColor="#8B4513"
+        android:pathData="M15,10h2v2h-2z"/>
+</vector>
